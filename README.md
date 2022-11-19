@@ -26,7 +26,7 @@ We aim to provide a place which would give a perfect output as to how likely it 
 - SHYAM D
 
 # Architecture Diagram:
-![image](https://user-images.githubusercontent.com/115606971/196102901-3704b121-8bb2-483e-a84b-c2d348b5864d.png)
+![image](https://github.com/IBM-EPBL/IBM-Project-9196-1658986187/blob/main/Pre-Development/Project%20Design%20Phase%20-%20I/Solution%20Architecture.pdf)
 
 # Domain:
 Applied Data Science
